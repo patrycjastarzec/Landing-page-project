@@ -96,4 +96,36 @@ button {
     margin: 80px 0px;
 }
 
+/* MAIN */
 
+h2 {
+    text-align: center;
+    margin: 50px 0px;
+}
+
+#boxes-panel {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.box {
+    width: 150px;
+    text-align: center;
+    margin: 0px 20px;
+}
+
+.image-square {
+    border: 3.5px solid #3882F6;
+    border-radius: 10%;
+    width: 150px;
+    height: 150px;
+}
+
+
+/* QUOTE */
+
+#quote {
+    background-color: #E5E7EB;
+}

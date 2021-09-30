@@ -158,3 +158,40 @@ h2 {
     color: #1F2937;
     margin-left: auto;
 }
+
+/* CALL */
+
+#call {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#blue-container {
+    background-color: #3882F6;
+    height: 100px;
+    width: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    border-radius: 10px;
+}
+
+#button-bottom{
+    border: 1px solid #FFFFFF;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+#call-text > p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #FFFFFF;
+}

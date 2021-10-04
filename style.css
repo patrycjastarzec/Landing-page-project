@@ -22,12 +22,15 @@ header {
     flex-direction: row;
 }
 
-ul {
+nav {
     display: flex;
     flex-direction: row;
-    list-style-type: none;
     margin-left: auto;
-    gap: 25px;
+    padding-right: 0px;
+}
+
+a {
+    margin-left: 25px;
 }
 
 #logo {
